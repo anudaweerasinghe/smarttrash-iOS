@@ -1,0 +1,6 @@
+module Pods_SmartTrash {
+  umbrella header "Pods-SmartTrash-umbrella.h"
+
+  export *
+  module * { export * }
+}
